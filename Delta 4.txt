@@ -1,0 +1,16 @@
+Delta 4:
+A random person superset of target audience is a burning user then the turning into an user is more probable.
+
+Indie HACKING:
+Find a problem and finding a solution and making it into a product to use.
+
+
+
+DAY 1:
+1.collab w/people around the world/within people in my team.
+2how will my system understand what i talk.
+3.what is internet, how will internet work, what is client-server arch .
+4.why google chrome is diff from bing/edge/firefox/brave.
+5.how is data flowing from server to client and  do you track them.
+6.how will my User exp can be made better.
+7.how to design/develop UI that i designed.
